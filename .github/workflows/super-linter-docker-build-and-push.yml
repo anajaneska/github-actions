@@ -43,4 +43,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: anajaneska/static-web:latest
+          tags: anajaneska/kii-demo-01:latest
